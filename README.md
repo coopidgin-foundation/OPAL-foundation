@@ -1,5 +1,5 @@
 # OPAL-foundation
-A foundation for Open Planified Auxiliary Languages
+A foundation for Openly Planned Auxiliary Languages
 
 Definition:
 
